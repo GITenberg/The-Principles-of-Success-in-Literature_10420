@@ -1,0 +1,33 @@
+_repo: The-Principles-of-Success-in-Literature_10420
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewes, George Henry
+    aliases:
+    - Lawrence, Slingsby
+    - Lewes, G. H. (George Henry)
+    birthdate: 1817
+    deathdate: 1878
+    gutenberg_agent_id: '3529'
+    url: http://www.gutenberg.org/2009/agents/3529
+    wikipedia: http://en.wikipedia.org/wiki/George_Henry_Lewes
+description: This 1891 volume of essays, in the words of its editor, Fred Scott, is
+  just the work to go into the hands of those that hope and despair of the teacher
+  of rhetoric the callow young man with a sneaking ambition for literature Lewes examines
+  how such elements as vision, sincerity, beauty, and style determine literary success
+  or failure.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authorship'
+- !lcsh 'Style, Literary'
+- !lcc 'PN'
+- GITenberg
+title: The Principles of Success in Literature
+url: http://www.gutenberg.org/ebooks/10420
