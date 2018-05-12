@@ -1,5 +1,8 @@
 _repo: The-Principles-of-Success-in-Literature_10420
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lewes, George Henry
@@ -16,6 +19,8 @@ description: This 1891 volume of essays, in the words of its editor, Fred Scott,
   of rhetoric the callow young man with a sneaking ambition for literature Lewes examines
   how such elements as vision, sincerity, beauty, and style determine literary success
   or failure.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10420#The-Principles-of-Success-in-Literature
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
